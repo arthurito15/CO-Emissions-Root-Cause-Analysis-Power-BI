@@ -2,8 +2,6 @@
 
 
 
-\
-
 ---
 
 # 📊 Project Overview
@@ -119,12 +117,9 @@ The `car_id` field was treated as an identifier rather than an analytical variab
 
 ### Screenshot
 
-![Final CO2 emissions dashboard](screenshots/10-final-dashboard.png)
+![Final CO2 emissions dashboard](screenshots/01-data-exploration.png)
 
-Recommended filename:
-
-```text
-screenshots/01-data-exploration.png
+01-data-exploration.png
 ```
 
 ---
@@ -145,13 +140,8 @@ This provides an immediate indication of the size of the dataset being analyzed.
 
 ### Screenshot
 
-**[ADD-IMAGE-2: KPI card showing the number of vehicles analyzed]**
+![Final CO2 emissions dashboard](screenshots/02-vehicles-analyzed.png)
 
-Recommended filename:
-
-```text
-screenshots/02-vehicles-analyzed.png
-```
 
 ---
 
@@ -182,12 +172,7 @@ This provides an initial view of which vehicle characteristics are associated wi
 
 ### Screenshot
 
-**[ADD-IMAGE-3: Key Influencers visualization showing the main factors associated with CO₂ emissions]**
-
-Recommended filename:
-
-```text
-screenshots/02-key-influencers.png
+![Final CO2 emissions dashboard](screenshots/02-key-influencers.png)
 ```
 
 ---
@@ -226,12 +211,7 @@ The Y-axis was explicitly configured to use **Average** rather than Sum because 
 
 ### Screenshot
 
-**[ADD-IMAGE-4: Scatter plot showing Engine Size versus Average CO₂ Emission]**
-
-Recommended filename:
-
-```text
-screenshots/03-engine-size-scatter.png
+![Final CO2 emissions dashboard](screenshots/03-engine-size-scatter.png)
 ```
 
 ### Analytical interpretation
@@ -256,12 +236,7 @@ as important components of the identified segments.
 
 ### Screenshot
 
-**[ADD-IMAGE-5: Top Segments visualization showing the main influencing groups]**
-
-Recommended filename:
-
-```text
-screenshots/04-top-segments.png
+![Final CO2 emissions dashboard](screenshots/04-top-segments.png)
 ```
 
 ---
@@ -296,12 +271,7 @@ Powertrain was used as the main axis because it contains a higher number of cate
 
 ### Screenshot
 
-**[ADD-IMAGE-6: Visualization comparing Powertrain, Transmission and CO₂ emissions]**
-
-Recommended filename:
-
-```text
-screenshots/05-powertrain-transmission.png
+![Final CO2 emissions dashboard](screenshots/05-powertrain-transmission.png)
 ```
 
 ### Analytical purpose
@@ -327,12 +297,7 @@ Values → CO2 emission
 
 ### Screenshot
 
-**[ADD-IMAGE-7: Donut chart showing CO₂ emissions by Fuel Type]**
-
-Recommended filename:
-
-```text
-screenshots/06-fuel-type.png
+![Final CO2 emissions dashboard](screenshots/06-fuel-type.png)
 ```
 
 ### Analytical purpose
@@ -368,12 +333,7 @@ Instead of presenting only a static conclusion, users can select different branc
 
 ### Screenshot
 
-**[ADD-IMAGE-8: Initial Decomposition Tree showing Average CO₂ Emission and explanatory attributes]**
-
-Recommended filename:
-
-```text
-screenshots/08-decomposition-tree.png
+![Final CO2 emissions dashboard](screenshots/08-decomposition-tree.png)
 ```
 
 ---
@@ -402,12 +362,7 @@ Grouping continuous or high-cardinality numerical values makes the hierarchy eas
 
 ### Screenshot
 
-**[ADD-IMAGE-9: Power BI New Group dialog showing five engine-size bins]**
-
-Recommended filename:
-
-```text
-screenshots/07-engine-size-binning.png
+![Final CO2 emissions dashboard](screenshots/07-engine-size-binning.png)
 ```
 
 ---
@@ -446,12 +401,7 @@ The resulting branch provides a specific combination of vehicle characteristics 
 
 ### Screenshot
 
-**[ADD-IMAGE-10: Decomposition Tree showing the AI-assisted low-value analysis]**
-
-Recommended filename:
-
-```text
-screenshots/09-ai-low-value-analysis.png
+![Final CO2 emissions dashboard](screenshots/09-ai-low-value-analysis.png)
 ```
 
 ---
@@ -490,12 +440,7 @@ Allows users to interactively investigate combinations of vehicle characteristic
 
 # 🖥️ Final Report
 
-**[ADD-IMAGE-11: Complete final Power BI dashboard/report page]**
-
-Recommended filename:
-
-```text
-screenshots/10-final-dashboard.png
+![Final CO2 emissions dashboard](screenshots/10-final-dashboard.png)
 ```
 
 ---
