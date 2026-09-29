@@ -205,7 +205,7 @@ The Y-axis was explicitly configured to use **Average** rather than Sum because 
 ### Screenshot
 
 ![Final CO2 emissions dashboard](screenshots/03-engine-size-scatter.png)
-```
+
 
 ### Analytical interpretation
 
@@ -230,7 +230,7 @@ as important components of the identified segments.
 ### Screenshot
 
 ![Final CO2 emissions dashboard](screenshots/04-top-segments.png)
-```
+
 
 ---
 
@@ -265,7 +265,7 @@ Powertrain was used as the main axis because it contains a higher number of cate
 ### Screenshot
 
 ![Final CO2 emissions dashboard](screenshots/05-powertrain-transmission.png)
-```
+
 
 ### Analytical purpose
 
@@ -291,7 +291,7 @@ Values → CO2 emission
 ### Screenshot
 
 ![Final CO2 emissions dashboard](screenshots/06-fuel-type.png)
-```
+
 
 ### Analytical purpose
 
@@ -327,7 +327,7 @@ Instead of presenting only a static conclusion, users can select different branc
 ### Screenshot
 
 ![Final CO2 emissions dashboard](screenshots/08-decomposition-tree.png)
-```
+
 
 ---
 
@@ -356,7 +356,7 @@ Grouping continuous or high-cardinality numerical values makes the hierarchy eas
 ### Screenshot
 
 ![Final CO2 emissions dashboard](screenshots/07-engine-size-binning.png)
-```
+
 
 ---
 
@@ -395,7 +395,7 @@ The resulting branch provides a specific combination of vehicle characteristics 
 ### Screenshot
 
 ![Final CO2 emissions dashboard](screenshots/09-ai-low-value-analysis.png)
-```
+
 
 ---
 
@@ -434,7 +434,7 @@ Allows users to interactively investigate combinations of vehicle characteristic
 # 🖥️ Final Report
 
 ![Final CO2 emissions dashboard](screenshots/10-final-dashboard.png)
-```
+
 
 ---
 
