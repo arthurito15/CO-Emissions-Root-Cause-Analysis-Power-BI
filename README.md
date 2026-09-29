@@ -115,14 +115,10 @@ The `car_id` field was treated as an identifier rather than an analytical variab
 | Fuel Type         | Energy/fuel category          |
 | car_id            | Vehicle identifier            |
 
-### Screenshot
 
 ![Final CO2 emissions dashboard](screenshots/01-data-exploration.png)
 
-01-data-exploration.png
-```
 
----
 
 # 🚗 2. Establishing the Dataset Scope
 
@@ -138,9 +134,6 @@ The `car_id` field was counted because each row represents an individual vehicle
 
 This provides an immediate indication of the size of the dataset being analyzed.
 
-### Screenshot
-
-![Final CO2 emissions dashboard](screenshots/02-vehicles-analyzed.png)
 
 
 ---
@@ -173,7 +166,7 @@ This provides an initial view of which vehicle characteristics are associated wi
 ### Screenshot
 
 ![Final CO2 emissions dashboard](screenshots/02-key-influencers.png)
-```
+
 
 ---
 
